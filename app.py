@@ -9,7 +9,7 @@ st.title("Text Detection")
 hide_streamlit_style = """
             <style>
             footer {visibility: hidden;}
-            div.viewerBadge_link__1S137 {display: none;}
+            .viewerBadge_container__1QSob {display: none !important;}
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
