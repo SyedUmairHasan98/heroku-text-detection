@@ -9,7 +9,7 @@ st.title("Text Detection")
 hide_streamlit_style = """
             <style>
             footer {visibility: hidden;}
-            a {visibility: hidden; display: none;}
+            .styles_stateContainer__29Rp6 {visibility: hidden; display: none;}
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
