@@ -1,5 +1,5 @@
-streamlit>=0.88
-streamlit-drawable-canvas>=0.8
+streamlit
+streamlit-drawable-canvas
 svgpathtools
 svgwrite
 opencv-python-headless
